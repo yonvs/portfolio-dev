@@ -253,3 +253,9 @@ h5 {
 		gap: 12rem;
 	}
 }
+img:where(.astro-KH7BTL4R) {
+	aspect-ratio: 3 / 2 !important;
+	object-fit: cover;
+
+}
+
