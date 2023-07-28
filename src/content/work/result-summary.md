@@ -1,7 +1,7 @@
 ---
 title: Result Summary Component
 publishDate: 2023-27-07 00:00:00
-img: /assets/result-summary-maquette.png
+img: /assets/maj-result.png
 img_alt: an result summary component
 description: |
   Front-end mentor Défi #1
